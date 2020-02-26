@@ -1,0 +1,56 @@
+
+.img-eye
+{
+
+height: 100%;
+background-image: url(my.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+ 
+.front
+{
+
+height:350px;
+width: 350px;
+background-image: url(h1.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+border-radius: 25px;
+padding-left: 780px;
+margin-left: 80px;
+
+
+}
+h1{
+font-size: 2.5pm;
+color: red;
+}
+.face
+{
+height:30px;
+width: 30px;
+color: red;
+background-image: url(fb.png);
+margin-left: 80px;
+
+background-repeat: no-repeat;
+background-size: contain;
+padding-top: 5px;
+padding-left: 40px;
+
+}
+.insta
+{
+height:30px;
+width: 30px;
+color: red;
+margin-left: 80px;
+
+background-image: url(insta.png);
+background-repeat: no-repeat;
+background-size: contain;
+padding-top: 5px;
+padding-left: 40px;
+}
